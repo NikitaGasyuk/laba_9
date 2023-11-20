@@ -1,3 +1,7 @@
+#Написать GUI приложение, которое представляет собой 
+#упрощенный файловый менеджер, с возможностью создания, 
+#удаления и переименования директорий и файлов.
+
 import os
 import tkinter as tk
 from tkinter import messagebox, simpledialog
